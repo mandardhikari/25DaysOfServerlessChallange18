@@ -34,3 +34,7 @@ The language used to write azure functions is C# and it uses the priciple of Dep
 #### Not So Perfectly Wrapped Gift
 ![](./SantasPerfectGift/Results/NotSoPercfectGiftProcessedWithBlobTrigger.JPG) 
 
+# Verdict
+
+## Ho HO HO SANTA IS HAPPY
+![](./Santa.png)
